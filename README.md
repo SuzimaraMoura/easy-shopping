@@ -3,11 +3,11 @@
 <br>
 <br>
 
-<h2>Esse foi um projeto que eu aprendi no curso do DevClub <a href="https://suzimaramoura.github.io/easy-shopping/" target="_blank"> Projeto Easy shopping</a></h2>
+<h2>Esse foi um projeto que eu aprendi no curso do DevClub <a href="https://suzimaramoura.github.io/easy-shopping/" > Projeto Easy shopping</a></h2>
 <h2>Tecnologias utilizadas</h2>
 <div>
-   <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+ - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
 </div>
 <img src="https://github.com/SuzimaraMoura/easy-shopping/blob/main/assets/desktop.jpg?raw=true" />
 <br>
