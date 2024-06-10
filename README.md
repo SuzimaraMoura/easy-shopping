@@ -11,4 +11,4 @@
 
 <img src="https://github.com/SuzimaraMoura/easy-shopping/blob/main/assets/desktop.jpg?raw=true" />
 <br>
-<img width=350px src="https://github.com/SuzimaraMoura/easy-shopping/blob/main/assets/mobile.jpg?raw=true"/>
+
